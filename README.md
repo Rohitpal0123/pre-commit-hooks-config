@@ -70,3 +70,5 @@ Now, let's set up Husky to add the lint-staged command in Git hooks as pre-commi
    ```
 
    If everything is set up correctly, Husky will run `lint-staged`, which in turn will handle linting and formatting before the commit is finalized.
+
+## Credits- https://youtu.be/_ssKvmZqSnk?si=faUmqNfTURPNajei
